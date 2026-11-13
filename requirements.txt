@@ -1,0 +1,8 @@
+google-genai
+trafilatura
+streamlit
+python-dotenv
+transformers
+torch
+sentencepiece
+deep-translator
